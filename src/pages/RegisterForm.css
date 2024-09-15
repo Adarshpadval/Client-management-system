@@ -1,0 +1,73 @@
+/* src/pages/RegisterForm.css */
+.register-form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .register-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group .error {
+    color: red;
+    font-size: 0.875em;
+  }
+  
+  .message {
+    color: green;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  /* RegisterForm.css */
+.error {
+    color: red;
+    font-size: 0.875rem;
+  }
+  
+  .message {
+    color: green;
+    font-size: 1rem;
+  }
+  
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
