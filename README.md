@@ -14,7 +14,7 @@ A robust Node.js API for managing users and clients, built with Express and MySQ
 
 ```bash
 git clone https://github.com/Adarshpadval/BreadcrumbsClient-management-system.git
-cd BreadcrumbsClient-management-system
+cd Client-management-system
 ```
 
 ##Start the Server
