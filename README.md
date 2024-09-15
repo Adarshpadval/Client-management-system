@@ -1,8 +1,28 @@
-# React + Vite
+# CMS Backend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A robust Node.js API for managing users and clients, built with Express and MySQL.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ** Client Management**: Full CRUD operations.
+- **Authentication**: Secure JWT-based user authentication.
+- **Database**: Integrated with MySQL.
+
+## Quick Start
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/Adarshpadval/BreadcrumbsClient-management-system.git
+cd BreadcrumbsClient-management-system
+```
+
+##Start the Server
+```bash
+npm start
+```
+
+
+ # Explore more from it client and admin routes
+# License
+- ** MIT License - Feel free to use and modify.
